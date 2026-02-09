@@ -1,4 +1,52 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-}
+[
+  {
+    "item": "home",
+    "schoolname": "Northern Arizona University",
+    "abbreviation": "NAU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#FAC019",
+    "primaryBrandColor": "#002454",
+    "buttonColor": "#FAC019",
+    "buttonTextColor": "#002454",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/nau.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/nau.png",
+    "partner_id": "0014T00000EPw8oQAD",
+    "programName": "NAU Global Career Accelerator",
+    "termsandConditionsPolicy": "https://in.nau.edu/hipaa/",
+    "credits": "6 NAU credits",
+    "startDate": "May 11",
+    "endDate": "August 4"
+  },
+  {
+    "item": "about",
+    "schoolname": "Northern Arizona University",
+    "genericProgramName": "The Global Career Accelerator",
+    "abbreviation": "NAU",
+    "phone": "(928) 569-5691",
+    "credits": "6 NAU credits",
+    "programFee": "+ 2,450",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 NAU credits",
+    "abbreviation": "NAU",
+    "registrationMessage": "2026 Summer registration is now open."
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "NAU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(928) 569-5691",
+    "abbreviation": "NAU"
+  },
+  {
+    "item": "begin",
+    "credits": "6 NAU credits",
+    "abbreviation": "NAU",
+    "phone": "(928) 569-5691"
+  }
+]
